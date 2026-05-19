@@ -1,0 +1,31 @@
+PROJECT DEMO VIDEO — ELECTRONICS LAB
+
+Title:
+Electronics Circuit Design and Practical Demonstration
+
+Video Link:
+https://youtu.be/SY8R9_8SwVk
+
+Description:
+This video demonstrates a practical electronics laboratory circuit experiment.
+It includes circuit assembly, component explanation, and working principle analysis.
+
+Topics Covered:
+- Circuit construction on breadboard
+- Electronic component identification
+- Voltage and current behavior in circuit
+- Real-time demonstration of circuit operation
+- Explanation of switching behavior
+
+Project Context:
+This video is part of a structured electronics laboratory portfolio including:
+- Technical reports
+- Circuit diagrams
+- Embedded systems experiments
+- Academic documentation
+
+Author:
+Ramil Musazada
+
+Verified by:
+Telman Askeraliyev — Physics Teacher, Azerbaijan

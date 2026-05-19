@@ -51,17 +51,23 @@ This repository centralizes academic electronics materials, including PDFs, repo
 - Circuit Theory
 
 ---
+## Project Demo Video
 
-## Repository Structure
+A practical demonstration video showing the electronics circuit implementation and working principle discussed in the project.
 
-```bash
-all-electronics-tasks/
-├── README.md
-├── pdf/
-├── docs/
-├── presentations/
-└── source-files/
-```
+### 🎬 YouTube Video
+- https://youtu.be/SY8R9_8SwVk
+
+### Description
+This video presents a laboratory electronics circuit demonstration including:
+- Circuit setup and wiring
+- Component explanation
+- Working principle analysis
+- Real-time operation of the circuit
+
+The video is part of the electronics laboratory portfolio and complements the written reports and circuit diagrams in this repository.
+
+
 
 ---
 
